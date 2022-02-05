@@ -12,7 +12,7 @@ excerpt: "A demo of Markdown and HTML includes"
 			<li>Annual Teaching Programs</li>
 			<li>Sponsored Research Projects</li>
 			<li>Consultancy Service Projects</li>
-			<li>Remote Office for Suzuki Motor Corporation</li>
+			<li>Remote Office for Motor Corporation</li>
             <li> State of Art Research Lab and Garage for R&D Collaboration</li>
             <li>Full time staffs for Center Operation and Collaboration Facilitation </li>
             <li>Faculties in charge for Collaboration Facilitation</li>

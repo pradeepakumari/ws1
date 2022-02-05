@@ -2,13 +2,13 @@
 #title: Vision
 feature_text: |
   ## Innovtion Center
-  Maximizing Visibility, Speed, Intensity and Productivity of Suzuki’s R&D
-  through Broad Collaborations between Suzuki and IITH
+  Maximizing Visibility, Speed, Intensity and Productivity of <>’s R&D
+  through Broad Collaborations between <> and IITH
 feature_image: "https://picsum.photos/1300/400?image=989"
 #excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
-IIT Hyderabad is looking forward to the active collaboration and the accomplishment of Suzuki’s vision
-through Suzuki Innovation Centre.
+IIT Hyderabad is looking forward to the active collaboration and the accomplishment of <>’s vision
+through <> Innovation Centre.
 
 <!--Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.-->
 

@@ -7,7 +7,7 @@ feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes"
 #aside: true
 ---
-Establishing Suzuki’s R&D Headquarter in India at IIT Hyderabad
+Establishing <>’s R&D Headquarter in India at IIT Hyderabad
 
 <!--
 # Heading 1
